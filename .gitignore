@@ -1,0 +1,10 @@
+.DS_Store
+build/
+*.app
+*.appex
+*.saver
+*.zip
+Index*.plist
+DerivedData/
+__pycache__/
+*.pyc
